@@ -20,7 +20,7 @@ export default async function Home() {
             {isAuth && <Button>Go to Chats</Button>}
           </div>
           <p className="max-w-xl mt-1 text-lg">Join millions of students, researchers and professionals to instantly answer 
-            questions and understand research with AIH
+            questions and understand research with AI
           </p>
           <div className="w-full mt-4">
             {isAuth ? (
